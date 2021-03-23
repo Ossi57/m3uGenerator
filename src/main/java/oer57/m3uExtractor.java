@@ -45,7 +45,7 @@ public class m3uExtractor {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         ChromeOptions options = new ChromeOptions();
         capabilities.setCapability(CapabilityType.PROXY, seleniumProxy);
-        options.addArguments("load-extension=C:\\Users\\Oguzh\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\cjpalhdlnbpafiamejdnhcphjbkeiagm\\1.34.0_4");
+        //options.addArguments("load-extension=C:\\Users\\Oguzh\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\cjpalhdlnbpafiamejdnhcphjbkeiagm\\1.34.0_4");
 
 
         options.merge(capabilities);

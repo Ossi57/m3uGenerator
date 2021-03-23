@@ -1,0 +1,72 @@
+Group: Ulusal
+Name: TR | TRT-1
+Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
+https://www.trthaber.com/canli-yayin-izle/trt-1/
+
+Name: TR | TRT-1
+Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
+https://www.canlitv.mobi/trt-1
+
+Name: TR | TRT-1
+Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
+https://www.canlitv.mobi/trt-1/2
+
+Name: TR | TRT-1
+Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
+https://www.canlitv.mobi/trt-1/3
+
+Name: TR | SHOW-TV
+Logo: http://vodpictures.ddns.net/picons/logos/show.png
+https://www.showtv.com.tr/canli-yayin/
+
+Name: TR | SHOW-TV
+Logo: http://vodpictures.ddns.net/picons/logos/show.png
+https://www.canlitv.mobi/show-tv-hd-izle
+
+Name: TR | SHOW-TV
+Logo: http://vodpictures.ddns.net/picons/logos/show.png
+https://www.canlitv.mobi/show-tv-hd-izle/2
+
+Name: TR | SHOW-TV
+Logo: http://vodpictures.ddns.net/picons/logos/show.png
+https://www.canlitv.mobi/show-tv-hd-izle/3
+
+Name: TR | SHOW-TV
+Logo: http://vodpictures.ddns.net/picons/logos/show.png
+https://www.canlitv.me/show-tv-hd-izle
+
+Name: TR | Fox-TV
+Logo: http://vodpictures.ddns.net/picons/logos/fox.png
+https://www.fox.com.tr/canli-yayin
+
+Name: TR | Fox-TV
+Logo: http://vodpictures.ddns.net/picons/logos/fox.png
+https://www.canlitv.mobi/fox-tv-hd-izle
+
+Name: TR | Fox-TV
+Logo: http://vodpictures.ddns.net/picons/logos/fox.png
+https://www.canlitv.me/fox-canli-izle
+
+Name: TR | Fox-TV
+Logo: http://vodpictures.ddns.net/picons/logos/fox.png
+https://www.canlitv.me/fox-canli-izle/2
+
+Name: TR | ATV
+Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png
+https://www.atv.com.tr/webtv/canli-yayin
+
+Name: TR | ATV
+Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png
+https://www.canlitv.mobi/atv-canli-online-izle
+
+Name: TR | ATV
+Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png
+https://www.canlitv.mobi/atv-canli-online-izle/2
+
+Name: TR | ATV
+Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png
+https://www.canlitv.mobi/atv-canli-online-izle/3
+
+Name: TR | ATV
+Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png
+https://www.canlitv.me/atv-canli-hd-yayin/1

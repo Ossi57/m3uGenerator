@@ -17,14 +17,11 @@ public class Writer {
     }
 
     public void write(){
-        try {
-            BufferedWriter writer = new BufferedWriter(new FileWriter("C:\\Users\\Oguzh\\OneDrive\\IpTv_Output\\iptv_fireTV.m3u",_append));
-            String m3u = _reader.getM3U();
-            writer.write(m3u);
-            writer.close();
+        /* BufferedWriter writer = new BufferedWriter(new FileWriter("C:\\Users\\Oguzh\\OneDrive\\IpTv_Output\\iptv_fireTV.m3u",_append));
+         String m3u = _reader.getM3U();
+         writer.write(m3u);
+         writer.close();*/
+        System.out.println();
 
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
     }
 }

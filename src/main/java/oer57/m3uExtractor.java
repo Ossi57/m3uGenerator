@@ -22,7 +22,7 @@ import java.util.List;
 public class m3uExtractor {
 
     public static String extract(URL url) throws Exception {
-      System.out.println("");
+      System.out.println(url.toString());
         if (url.toString().contains("www.beinsports1")) {
             return "https://xxx.buneamkya.xyz/72fe9bb58e02e669273c902c1f48f501/601/qs.m3u8";
         } else if (url.toString().contains("www.beinsports2")) {

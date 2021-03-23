@@ -1,0 +1,45 @@
+Group: Ulusal
+Name: TR | Kanal-7
+Logo: http://vodpictures.ddns.net/picons/logos/kanal7.jpg
+https://www.canlitv.me/kanal-7-canli-turkiye
+
+Name: TR | Kanal-7
+Logo: http://vodpictures.ddns.net/picons/logos/kanal7.jpg
+https://www.canlitv.me/kanal-7-canli-turkiye/2
+
+Name: TR | Kanal-7
+Logo: http://vodpictures.ddns.net/picons/logos/kanal7.jpg
+https://www.canlitv.mobi/kanal-7-hd-izle
+
+Group: Haber
+Name: TR | A-Haber
+Logo: https://img.favpng.com/2/1/14/logo-a-haber-television-brand-atv-png-favpng-nfXjcH3F4rybriJ67xP4BXNVn.jpg
+https://www.canlitv.mobi/a-haber-izle
+
+Name: TR | A-Haber
+Logo: https://img.favpng.com/2/1/14/logo-a-haber-television-brand-atv-png-favpng-nfXjcH3F4rybriJ67xP4BXNVn.jpg
+https://www.canlitv.mobi/a-haber-izle/2
+
+Name: TR | A-Haber
+Logo: https://img.favpng.com/2/1/14/logo-a-haber-television-brand-atv-png-favpng-nfXjcH3F4rybriJ67xP4BXNVn.jpg
+https://www.canlitv.me/a-haber-izle-13
+
+Name: TR | A-Haber
+Logo: https://img.favpng.com/2/1/14/logo-a-haber-television-brand-atv-png-favpng-nfXjcH3F4rybriJ67xP4BXNVn.jpg
+https://www.canlitv.me/a-haber-izle-13/2
+
+Name: TR | CNN-Türk
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CNN_T%C3%BCrk_201x_logo.svg/1273px-CNN_T%C3%BCrk_201x_logo.svg.png
+https://www.canlitv.me/cnn-turk-canli-yayin
+
+Name: TR | CNN-Türk
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CNN_T%C3%BCrk_201x_logo.svg/1273px-CNN_T%C3%BCrk_201x_logo.svg.png
+https://www.canlitv.me/cnn-turk-canli-yayin/2
+
+Name: TR | CNN-Türk
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CNN_T%C3%BCrk_201x_logo.svg/1273px-CNN_T%C3%BCrk_201x_logo.svg.png
+https://www.canlitv.mobi/cnn-turk
+
+Name: TR | CNN-Türk
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CNN_T%C3%BCrk_201x_logo.svg/1273px-CNN_T%C3%BCrk_201x_logo.svg.png
+https://www.canlitv.mobi/cnn-turk/2

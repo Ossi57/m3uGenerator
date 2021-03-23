@@ -1,0 +1,60 @@
+Group: Ulusal
+Name: TR | Kanal-D
+Logo: http://vodpictures.ddns.net/picons/logos/kanald.png
+https://www.canlitv.mobi/kanal-d
+
+Name: TR | Kanal-D
+Logo: http://vodpictures.ddns.net/picons/logos/kanald.png
+https://www.canlitv.me/kanal-d
+
+Name: TR | Kanal-D
+Logo: http://vodpictures.ddns.net/picons/logos/kanald.png
+https://www.canlitv.me/kanal-d/2
+
+Name: TR | Kanal-D
+Logo: http://vodpictures.ddns.net/picons/logos/kanald.png
+https://www.canlitv.mobi/kanal-d/2
+
+Name: TR | Start-Tv
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/659px-Logo_Star_TV_ab_2011.svg.png
+https://www.canlitv.mobi/star-tv-canli-hd
+
+Name: TR | Start-Tv
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/659px-Logo_Star_TV_ab_2011.svg.png
+https://www.canlitv.mobi/star-tv-canli-hd/2
+
+Name: TR | Start-Tv
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/659px-Logo_Star_TV_ab_2011.svg.png
+https://www.canlitv.mobi/star-tv-canli-hd/3
+
+Name: TR | Start-Tv
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/659px-Logo_Star_TV_ab_2011.svg.png
+https://www.canlitv.me/star-tv-canli-96
+
+Name: TR | Tv8
+Logo: https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png
+https://www.canlitv.me/tv-8
+
+Name: TR | Tv8
+Logo: https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png
+https://www.canlitv.me/tv-8/2
+
+Name: TR | Tv8
+Logo: https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png
+https://www.canlitv.me/tv-8/3
+
+Name: TR | Tv8
+Logo: https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png
+https://www.canlitv.mobi/tv-8-canli-hd
+
+Name: TR | Tv8-INT
+Logo: https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png
+https://www.tv8.com.tr/canli-yayin
+
+Name: TR | A2
+Logo: http://vodpictures.ddns.net/picons/logos/a2.png
+https://www.canlitv.me/a2-tv-1
+
+Name: TR | A2
+Logo: http://vodpictures.ddns.net/picons/logos/a2.png
+https://www.canlitv.mobi/a2-tv-hd-izle

@@ -32,21 +32,37 @@ https://upload.wikimedia.org/wikipedia/commons/d/d3/TRT_Haber_kurumsal_logo.png
 https://www.canlitv.me/trt-haber/2
 
 Group: Spor
-Name: TR | BeIN Sports-1
+Name: TR | BeinSports 1
 Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD1.png
-https://www.beinsports1
+https://beinsports1
 
-Name: TR | BeIN Sports-2
+Name: TR | BeinSports 1
 Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_2.png
-https://www.beinsports2
+https://bein1
 
-Name: TR | BeIN Sports-3
+Name: TR | BeinSports 2
+Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_2.png
+https://beinsports2
+
+Name: TR | BeinSports 2
+Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_2.png
+https://bein2
+
+Name: TR | BeinSports 3
 Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD3.png
-https://www.beinsports3
+https://beinsports3
 
-Name: TR | BeIN Sports-4
+Name: TR | BeinSports 3
+Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD3.png
+https://bein3
+
+Name: TR | BeinSports 4
 Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png
-https://www.beinsports4
+https://beinsports4
+
+Name: TR | BeinSports 4
+Logo: https://cdn-0.tvprofil.com/img/kanali-logo/bein-sports-HD4.png
+bein4
 
 Name: TR | Trt-Spor
 Logo: https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png
@@ -79,19 +95,3 @@ https://www.canlitv.me/a-spor-izle-10
 Name: TR | A-Spor
 Logo: https://iaaspr.tmgrup.com.tr/c51c76/806/378/0/19/640/319?u=https://iaspr.tmgrup.com.tr/2018/06/07/aspor-mobil-uygulamasi-yenilendi-1528363896108.jpg
 https://www.canlitv.me/a-spor-izle-10/2
-
-Name: TR | BeIN-Haber
-Logo: https://im.haberturk.com/2018/10/03/ver1538564536/2165854_810x458.jpg
-https://www.canlitv.mobi/bein-sports-haber
-
-Name: TR | BeIN-Haber
-Logo: https://im.haberturk.com/2018/10/03/ver1538564536/2165854_810x458.jpg
-https://www.canlitv.me/bein-sports-haber
-
-Name: TR | SportsTv
-Logo:https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png
-https://www.canlitv.mobi/sports-tv
-
-Name: TR | SportsTv
-Logo:https://www.logolynx.com/images/logolynx/76/769373e81ec5f71f0b96c748cbce01fc.png
-https://www.canlitv.mobi/sports-tv/2

@@ -1,10 +1,6 @@
 Group: Ulusal
 Name: TR | TRT-1
 Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
-https://www.trthaber.com/canli-yayin-izle/trt-1/
-
-Name: TR | TRT-1
-Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
 https://www.canlitv.mobi/trt-1
 
 Name: TR | TRT-1
@@ -13,7 +9,11 @@ https://www.canlitv.mobi/trt-1/2
 
 Name: TR | TRT-1
 Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
-https://www.canlitv.mobi/trt-1/3
+https://www.canlitv.me/trt1
+
+Name: TR | TRT-1
+Logo:http://vodpictures.ddns.net/picons/logos/trt1.png
+https://www.canlitv.me/trt1/2
 
 Name: TR | SHOW-TV
 Logo: http://vodpictures.ddns.net/picons/logos/show.png
@@ -50,10 +50,6 @@ https://www.canlitv.me/fox-canli-izle
 Name: TR | Fox-TV
 Logo: http://vodpictures.ddns.net/picons/logos/fox.png
 https://www.canlitv.me/fox-canli-izle/2
-
-Name: TR | ATV
-Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png
-https://www.atv.com.tr/webtv/canli-yayin
 
 Name: TR | ATV
 Logo: https://icareus.com/wp-content/uploads/2019/11/atv-logo-png-atv-logo-300.png

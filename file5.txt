@@ -1,0 +1,32 @@
+Group: DE
+Name: DE | Prosieben
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png
+https://www.2ix2.com/pro7/
+
+Name: DE | Prosieben Maxx
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/2000px-ProSieben_MAXX_Logo.svg.png
+https://www.2ix2.com/prosieben-maxx/
+
+Name: DE | RTL
+Logo: https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png
+https://www.2ix2.com/rtl/
+
+Name: DE | RTL2
+Logo: https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png
+https://www.2ix2.com/rtl2-live/
+
+Name: DE | Kabel1
+Logo: https://de.wikipedia.org/wiki/Kabel_eins#/media/Datei:Kabel_eins_Logo_2015.svg
+https://www.2ix2.com/kabel-1/
+
+Name: DE | SAT1
+Logo: https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png
+https://www.2ix2.com/sat1/
+
+Name: DE | DMAX
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png
+https://www.2ix2.com/dmax/
+
+Name: DE | ORF1
+Logo: https://www.designtagebuch.de/wp-content/uploads/mediathek//2010/12/orf-eins-logo.jpg
+https://www.2ix2.com/orf1/
